@@ -1,0 +1,10 @@
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\bin\Debug\Matching Icons Game.exe.config
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\bin\Debug\Matching Icons Game.exe
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\bin\Debug\Matching Icons Game.pdb
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\obj\Debug\Matching Icons Game.csprojAssemblyReference.cache
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\obj\Debug\Matching_Icons_Game.Form1.resources
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\obj\Debug\Matching_Icons_Game.Properties.Resources.resources
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\obj\Debug\Matching Icons Game.csproj.GenerateResource.cache
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\obj\Debug\Matching Icons Game.csproj.CoreCompileInputs.cache
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\obj\Debug\Matching Icons Game.exe
+D:\THE GAME FOLDER\7zip Files\Matching Icons Game\Matching Icons Game\obj\Debug\Matching Icons Game.pdb
